@@ -7,5 +7,7 @@ Program automatycznie pobiera faktury z systemu KSEF ze sprecyzowanego folderu i
 * Nazwa firmy
 * Kwota netto i brutto
 * Zawartość faktury
+* Termin płatności
 
+  
 Ważne: Nazwa zakładki w pliku Excel musi być identyczna z nazwą folderu, w którym zapisywana jest faktura.
